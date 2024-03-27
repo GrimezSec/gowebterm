@@ -20,4 +20,4 @@ GoWebTerm is a simple web application developed using the Go programming languag
 
 - Go compiler is required.
 - Gorilla WebSocket library is needed. To install:
-  ''' go get github.com/gorilla/websocket '''
+  ` go get github.com/gorilla/websocket `
