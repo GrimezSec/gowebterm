@@ -14,7 +14,8 @@ GoWebTerm is a simple web application developed using the Go programming languag
 1. Go compiler is required to run the application.
 2. In the root directory of the application, run the command `go run main.go`.
 3. Open your web browser and navigate to `http://localhost:8080` (Default port is 8080).
-4. Enter the desired command in the command input box and press Enter or click the "Execute" button.
+4. To change protocol use -p argument. run command `go run main.go -p 9090` for 9090 port
+5. Enter the desired command in the command input box and press Enter or click the "Execute" button.
 
 ## Requirements
 
