@@ -1,6 +1,6 @@
 module go-term
 
-go 1.22.1
+go 1.17
 
 require (
 	github.com/gorilla/websocket v1.5.1 
